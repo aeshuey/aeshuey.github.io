@@ -1,0 +1,62 @@
+
+body {
+  background-color: #2c2033;
+  font-family: 'Roboto', sans-serif;
+  color: #d6cedb;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h1, h2 {
+
+  font-family: 'Press Start 2P', cursive;
+  text-decoration: underline dotted #a98abd;
+  text-shadow: 3px 4px 5px #ffffff;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #442d52;
+  padding: 3px;
+  padding-bottom: 4px;
+}
+
+a {
+  text-decoration: none;
+  color: #cca9a9;
+  font-style: italic;
+}
+
+.contact {
+  background-color: #66526b;
+  width: 60%;
+  margin: auto;
+}
+
+#gengar {
+  margin: auto;
+  height: 80px;
+  width: 80px;
+  padding: 3px;
+}
+
+table, th, td {
+  border: 1px solid #66526b;
+  width: 60%;
+  margin: auto;
+}
+
+.evolution {
+  margin-left: 10px;
+}
+
+.num {
+  width: 10%;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ref {
+  margin-left: 60%;
+  margin-top: -9%;
+}
